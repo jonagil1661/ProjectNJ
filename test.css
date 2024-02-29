@@ -5,3 +5,57 @@
 #picture{
 	width: 150px;
 }
+
+
+#firstNumber{
+	width: 120px;
+	font-size: 40px;
+	color: red;
+	text-align: center;
+}
+#secondNumber{
+	width: 120px;
+	font-size: 40px;
+	color: blue;
+	text-align: center;
+}
+#resultNumber{
+	color: green;
+	width: 200px;
+	font-size: 60px;
+	text-align: center;
+}
+body{
+	font-size: 50px;
+	color: navy;
+}
+#add{
+	font-size: 30px;
+	color: navy;
+	background-color:  limegreen;
+}
+
+#firstNum{
+	width: 120px;
+	font-size: 40px;
+	color: red;
+	text-align: center;
+}
+#secondNum{
+	width: 120px;
+	font-size: 40px;
+	color: blue;
+	text-align: center;
+}
+#resultNum{
+	color: green;
+	width: 200px;
+	font-size: 60px;
+	text-align: center;
+}
+
+#subtract{
+	font-size: 30px;
+	color: navy;
+	background-color:  rgb(205, 50, 63);
+}
